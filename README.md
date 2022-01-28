@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neha Tanwar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Mobile App developer from India</h3>
 
 - 🌱 I’m currently learning **Mobile App Development**
 
