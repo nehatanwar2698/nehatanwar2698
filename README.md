@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neha Tanwar</h1>
 <h3 align="center">A passionate Mobile App developer from India</h3>
 
-- 🌱 I’m currently learning **Mobile App Development**
+- 🌱 I’m currently Working as **Mobile App Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
